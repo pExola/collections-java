@@ -1,2 +1,5 @@
-package list.OperacoesBasicas;public class Item {
+package list.OperacoesBasicas;
+
+public class Item {
+
 }
